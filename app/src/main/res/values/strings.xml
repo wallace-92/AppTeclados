@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppTeclados</string>
+    <string name="inicio_sesion_textview">Inicio de sesion</string>
+    <string name="registro_sesion_textview">Registrarse</string>
+    <string name="usuario_edittext">Usuario</string>
+    <string name="email_edittext">Correo electronico</string>
+    <string name="contrasena_edittext">Contraseña</string>
+    <string name="login_button">Iniciar sesion</string>
+    <string name="register_button">Registrarse</string>
+    <string name="textView">Elige la marca que te guste:</string>
+    <string name="buttonInicio">Volver</string>
+    <string name="textView2">Página principal de ASUS.</string>
+    <string name="textView3">Página principal de ROG.</string>
+    <string name="textView4">Historia sobre ASUS.</string>
+    <string name="textView5">Venta componentes/equipos ASUS.</string>
+    <string name="textView6">Contacto.</string>
+    <string name="textView7">Teclados ASUS.</string>
+    <string name="textView8">Teclados ROG.</string>
+    <string name="textView9">Página principal de Corsair.</string>
+    <string name="textView10">Teclados Corsair.</string>
+    <string name="textView11">Historia sobre Corsair.</string>
+    <string name="textView12">Venta componentes/equipos CORSAIR.</string>
+    <string name="textView13">Página principal de KINGSTON.</string>
+    <string name="textView14">Página principal de HYPERX.</string>
+    <string name="textView15">Teclados HYPERX.</string>
+    <string name="textView16">Historia sobre KINGSTON/HYPERX.</string>
+    <string name="textView17">Venta componentes/equipos HYPERX.</string>
+    <string name="textView18">Página principal de LOGITECH.</string>
+    <string name="textView19">Página principal GAMING.</string>
+    <string name="textView20">Historia sobre LOGITECH.</string>
+    <string name="textView21">Venta componentes/equipos LOGITECH.</string>
+    <string name="textView22">Teclados LOGITECH.</string>
+    <string name="textView23">Teclados GAMING.</string>
+    <string name="textView24">Página principal de RAZER.</string>
+    <string name="textView25">Teclados RAZER.</string>
+    <string name="textView26">Historia sobre RAZER.</string>
+    <string name="textView27">Venta componentes/equipos RAZER.</string>
+
+
+</resources>

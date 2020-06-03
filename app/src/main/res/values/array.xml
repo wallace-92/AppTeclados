@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="deseos_array">
+        <item>Elige:</item>
+        <item>Corsair</item>
+        <item>Razer</item>
+        <item>Asus</item>
+        <item>Camara Reflex</item>
+        <item>Consola</item>
+        <item>Ordenador</item>
+        <item>Trabajo</item>
+        <item>Salud</item>
+    </string-array>
+</resources>
