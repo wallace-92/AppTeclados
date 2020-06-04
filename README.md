@@ -1,6 +1,6 @@
 ENLACE A VIDEO DE LA APLICACION:
 
-https://drive.google.com/file/d/1R2uDyb68jjItP5VNB6gbLlRx8kXG-dy_/view?usp=sharing
+https://drive.google.com/file/d/1ZTMP15wVX8xu4pF-kWXjFK1as7OxDMcg/view?usp=sharing
 
 Usuario para hacer pruebas:
 Correo: borja@gmail.com
