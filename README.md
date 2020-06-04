@@ -1,9 +1,9 @@
-ENLACE A VIDEO TUTORIAL DE LA APLICACION:
+ENLACE A VIDEO DE LA APLICACION:
 
 https://drive.google.com/file/d/1R2uDyb68jjItP5VNB6gbLlRx8kXG-dy_/view?usp=sharing
 
 Usuario para hacer pruebas:
-Correo: mariconeti3000@gmail.com
+Correo: borja@gmail.com
 Contraseña: 1234
 
 
